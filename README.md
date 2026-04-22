@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Angel and I am an Electrical Engineer with a Ph.D. in Electrical and Electronic Engineering exploring the development of AI-assisted code to solve problems in power distribution engineering. I am passionate about mathematical optimization, more electric aircraft, and classical music as well. 
+
