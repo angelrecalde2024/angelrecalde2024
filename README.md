@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Angel and I am an Electrical Engineer with a Ph.D. in Electrical and Electronic Engineering exploring the development of AI-assisted code to solve problems in power distribution engineering. I am passionate about mathematical optimization, more electric aircraft, and classical music as well. 
+I'm Angel and I am an Electrical Engineer with a Ph.D. in Electrical and Electronic Engineering exploring the development of AI-assisted code to solve problems in power distribution engineering and power system planning. I am passionate about mathematical optimization, more electric aircraft, and classical music as well. 
 
-Currently working on power distribution algorithms for the analysis of distribution networks: [check it here](https://github.com/angelrecalde2024/Power-Distribution-Design-and-Management)
+🔭 Currently working on power distribution algorithms for the analysis of distribution networks: [check it here](https://github.com/angelrecalde2024/Power-Distribution-Design-and-Management)
 
 ---
 
@@ -31,10 +31,17 @@ Projects I've worked on include:
 
 I will continue to elaborate in several repoitories as I discover how AI can assist in creating tools that enhace learning experiences. 
 
+👯 I am looking to colaborate on More Electric Aircraft and methods to designing distribution systems. 
+
+🌱 I am currently learning quantum computing. My goal is to develop tools and algorithms that can be used to tackle intractable problems. 
+
+📫 You can reach me at arecalde@espol.edu.ec, or drop me a message in LinkedIn [check it here](https://www.linkedin.com/in/andresrecalde2010/)
+
 ---
 
-Fun fact: 
+⚡ Fun facts: 
 
 * I studied more electric aircraft but has never flown a plane myself
 * Hobbies: exercising and cleaning home
+* I also like electronics, I have built 2 micro smart cars but none of them still moves! I keep going. 
 
